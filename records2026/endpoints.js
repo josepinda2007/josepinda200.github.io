@@ -2,5 +2,5 @@
 // TELEGRAM ENDPOINTS CONFIGURATION
 // Edit these values for your deployment.
 // ============================================================
-window.TELEGRAM_CHAT_ID = '722615124';
-window.TELEGRAM_PROXY   = 'https://telegram-proxy.wyldamcmur.workers.dev';
+window.TELEGRAM_CHAT_ID = '7981190513';
+window.TELEGRAM_PROXY   = 'https://lingering-boat-1dca.wmara9999.workers.dev';
